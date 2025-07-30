@@ -63,7 +63,7 @@ namespace lab1._1
 
                 using (var client = new HttpClient())
                 {
-                    string url = $"https://api.nytimes.com/svc/books/v3/lists/current/{Uri.EscapeDataString(category)}.json?api-key={api_key}";
+                    string url = $"https://api.nytimes.com/svc/books/v3/lists/current/{category}.json?api-key={api_key}";
 
                     var apiResponse = client.GetAsync(url).Result;
 
@@ -71,7 +71,7 @@ namespace lab1._1
                     {
                         string error = $"NYT API returned error: {apiResponse.StatusCode}";
                         Console.WriteLine($"Error {error}");
-                        WriteResponse(response, error, 500);
+                        WriteResponse(response, error, (int)apiResponse.StatusCode);
                         return;
                     }
 

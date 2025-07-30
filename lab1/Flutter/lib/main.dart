@@ -71,8 +71,10 @@ class _MainAppState extends State<MainApp> {
                 onPressed: () {
                   setState(() {
                     books = [];
+                    error = '';
                   });
                   _search();
+                  controller.clear();
                 },
                 child: Text("Search"),
               ),

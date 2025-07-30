@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/macbook/FAKS/GODINA-3/СЕМСЕТАР - 6/Sistemsko/Lab/lab1.1/lab1.1.csproj": {}
+    "/Users/macbook/FAKS/GODINA-3/СЕМСЕТАР - 6/Sistemsko/Lab/lab1/NET/lab1.1.csproj": {}
   },
   "projects": {
-    "/Users/macbook/FAKS/GODINA-3/СЕМСЕТАР - 6/Sistemsko/Lab/lab1.1/lab1.1.csproj": {
+    "/Users/macbook/FAKS/GODINA-3/СЕМСЕТАР - 6/Sistemsko/Lab/lab1/NET/lab1.1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/macbook/FAKS/GODINA-3/СЕМСЕТАР - 6/Sistemsko/Lab/lab1.1/lab1.1.csproj",
+        "projectUniqueName": "/Users/macbook/FAKS/GODINA-3/СЕМСЕТАР - 6/Sistemsko/Lab/lab1/NET/lab1.1.csproj",
         "projectName": "lab1.1",
-        "projectPath": "/Users/macbook/FAKS/GODINA-3/СЕМСЕТАР - 6/Sistemsko/Lab/lab1.1/lab1.1.csproj",
+        "projectPath": "/Users/macbook/FAKS/GODINA-3/СЕМСЕТАР - 6/Sistemsko/Lab/lab1/NET/lab1.1.csproj",
         "packagesPath": "/Users/macbook/.nuget/packages/",
-        "outputPath": "/Users/macbook/FAKS/GODINA-3/СЕМСЕТАР - 6/Sistemsko/Lab/lab1.1/obj/",
+        "outputPath": "/Users/macbook/FAKS/GODINA-3/СЕМСЕТАР - 6/Sistemsko/Lab/lab1/NET/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/macbook/.nuget/NuGet/NuGet.Config"
