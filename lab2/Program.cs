@@ -62,6 +62,14 @@ namespace NyTimesListServer
         {
             var req = context.Request;
             var resp = context.Response;
+
+            if (req.Url.AbsolutePath == "/" && string.IsNullOrEmpty(req.QueryString["category"]))
+            {
+                resp.StatusCode = 302;
+                resp.Headers.Add("Location", "/?category=hardcover-fiction");
+                resp.Close();
+                return;
+            }
             string category = req.QueryString["category"] ?? "";
             string date = DateTime.UtcNow.ToString("yyyy-MM-dd");
             string cacheKey = $"date:{date}|category:{category.Trim().ToLowerInvariant()}";

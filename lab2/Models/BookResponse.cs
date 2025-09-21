@@ -1,3 +1,4 @@
+using System.Text.Json;
 namespace NyTimesListServer.Models
 {
     public class BookResponse
