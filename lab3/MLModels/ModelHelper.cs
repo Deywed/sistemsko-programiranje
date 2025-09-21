@@ -10,7 +10,7 @@ namespace ReactiveNewsServer.MLModels
         {
             var mlContext = new MLContext();
             
-            // Prošireni trening podaci sa tech primerima
+            // podaci sa primerima
             var trainingData = new List<SentimentData>
             {
                 // Pozitivni primeri

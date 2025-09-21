@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/macbook/Nyt/Nyt.csproj": {}
+    "/Users/macbook/FAKS/GODINA-3/СЕМСЕТАР - 6/Sistemsko/Lab/lab1/Nyt.csproj": {}
   },
   "projects": {
-    "/Users/macbook/Nyt/Nyt.csproj": {
+    "/Users/macbook/FAKS/GODINA-3/СЕМСЕТАР - 6/Sistemsko/Lab/lab1/Nyt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/macbook/Nyt/Nyt.csproj",
+        "projectUniqueName": "/Users/macbook/FAKS/GODINA-3/СЕМСЕТАР - 6/Sistemsko/Lab/lab1/Nyt.csproj",
         "projectName": "Nyt",
-        "projectPath": "/Users/macbook/Nyt/Nyt.csproj",
+        "projectPath": "/Users/macbook/FAKS/GODINA-3/СЕМСЕТАР - 6/Sistemsko/Lab/lab1/Nyt.csproj",
         "packagesPath": "/Users/macbook/.nuget/packages/",
-        "outputPath": "/Users/macbook/Nyt/obj/",
+        "outputPath": "/Users/macbook/FAKS/GODINA-3/СЕМСЕТАР - 6/Sistemsko/Lab/lab1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/macbook/.nuget/NuGet/NuGet.Config"
@@ -43,6 +43,12 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[10.0.0-rc.1.25451.107, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

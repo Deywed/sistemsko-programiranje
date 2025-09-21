@@ -32,5 +32,14 @@ namespace NyTimesListServer.Services
                 File.AppendAllText(logFilePath, line + Environment.NewLine);
             }
         }
+        public void Warning(string message)
+        {
+            string line = $"WARNING: {message}";
+            lock (fileLock)
+            {
+                Console.WriteLine(line);
+                File.AppendAllText(logFilePath, line + Environment.NewLine);
+            }
+        }
     }
 }

@@ -12,3 +12,33 @@
 /Users/macbook/Nyt/obj/Debug/net9.0/Nyt.pdb
 /Users/macbook/Nyt/obj/Debug/net9.0/Nyt.genruntimeconfig.cache
 /Users/macbook/Nyt/obj/Debug/net9.0/ref/Nyt.dll
+/Users/macbook/FAKS/GODINA-3/СЕМСЕТАР - 6/Sistemsko/Lab/lab1/bin/Debug/net9.0/Nyt
+/Users/macbook/FAKS/GODINA-3/СЕМСЕТАР - 6/Sistemsko/Lab/lab1/bin/Debug/net9.0/Nyt.deps.json
+/Users/macbook/FAKS/GODINA-3/СЕМСЕТАР - 6/Sistemsko/Lab/lab1/bin/Debug/net9.0/Nyt.runtimeconfig.json
+/Users/macbook/FAKS/GODINA-3/СЕМСЕТАР - 6/Sistemsko/Lab/lab1/bin/Debug/net9.0/Nyt.dll
+/Users/macbook/FAKS/GODINA-3/СЕМСЕТАР - 6/Sistemsko/Lab/lab1/bin/Debug/net9.0/Nyt.pdb
+/Users/macbook/FAKS/GODINA-3/СЕМСЕТАР - 6/Sistemsko/Lab/lab1/bin/Debug/net9.0/Microsoft.Extensions.Configuration.dll
+/Users/macbook/FAKS/GODINA-3/СЕМСЕТАР - 6/Sistemsko/Lab/lab1/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/macbook/FAKS/GODINA-3/СЕМСЕТАР - 6/Sistemsko/Lab/lab1/bin/Debug/net9.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/macbook/FAKS/GODINA-3/СЕМСЕТАР - 6/Sistemsko/Lab/lab1/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Json.dll
+/Users/macbook/FAKS/GODINA-3/СЕМСЕТАР - 6/Sistemsko/Lab/lab1/bin/Debug/net9.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/macbook/FAKS/GODINA-3/СЕМСЕТАР - 6/Sistemsko/Lab/lab1/bin/Debug/net9.0/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/macbook/FAKS/GODINA-3/СЕМСЕТАР - 6/Sistemsko/Lab/lab1/bin/Debug/net9.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/macbook/FAKS/GODINA-3/СЕМСЕТАР - 6/Sistemsko/Lab/lab1/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/Users/macbook/FAKS/GODINA-3/СЕМСЕТАР - 6/Sistemsko/Lab/lab1/bin/Debug/net9.0/System.IO.Pipelines.dll
+/Users/macbook/FAKS/GODINA-3/СЕМСЕТАР - 6/Sistemsko/Lab/lab1/bin/Debug/net9.0/System.Text.Encodings.Web.dll
+/Users/macbook/FAKS/GODINA-3/СЕМСЕТАР - 6/Sistemsko/Lab/lab1/bin/Debug/net9.0/System.Text.Json.dll
+/Users/macbook/FAKS/GODINA-3/СЕМСЕТАР - 6/Sistemsko/Lab/lab1/bin/Debug/net9.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/Users/macbook/FAKS/GODINA-3/СЕМСЕТАР - 6/Sistemsko/Lab/lab1/bin/Debug/net9.0/runtimes/win/lib/net9.0/System.Text.Encodings.Web.dll
+/Users/macbook/FAKS/GODINA-3/СЕМСЕТАР - 6/Sistemsko/Lab/lab1/obj/Debug/net9.0/Nyt.csproj.AssemblyReference.cache
+/Users/macbook/FAKS/GODINA-3/СЕМСЕТАР - 6/Sistemsko/Lab/lab1/obj/Debug/net9.0/Nyt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/FAKS/GODINA-3/СЕМСЕТАР - 6/Sistemsko/Lab/lab1/obj/Debug/net9.0/Nyt.AssemblyInfoInputs.cache
+/Users/macbook/FAKS/GODINA-3/СЕМСЕТАР - 6/Sistemsko/Lab/lab1/obj/Debug/net9.0/Nyt.AssemblyInfo.cs
+/Users/macbook/FAKS/GODINA-3/СЕМСЕТАР - 6/Sistemsko/Lab/lab1/obj/Debug/net9.0/Nyt.csproj.CoreCompileInputs.cache
+/Users/macbook/FAKS/GODINA-3/СЕМСЕТАР - 6/Sistemsko/Lab/lab1/obj/Debug/net9.0/Nyt.sourcelink.json
+/Users/macbook/FAKS/GODINA-3/СЕМСЕТАР - 6/Sistemsko/Lab/lab1/obj/Debug/net9.0/Nyt.csproj.Up2Date
+/Users/macbook/FAKS/GODINA-3/СЕМСЕТАР - 6/Sistemsko/Lab/lab1/obj/Debug/net9.0/Nyt.dll
+/Users/macbook/FAKS/GODINA-3/СЕМСЕТАР - 6/Sistemsko/Lab/lab1/obj/Debug/net9.0/refint/Nyt.dll
+/Users/macbook/FAKS/GODINA-3/СЕМСЕТАР - 6/Sistemsko/Lab/lab1/obj/Debug/net9.0/Nyt.pdb
+/Users/macbook/FAKS/GODINA-3/СЕМСЕТАР - 6/Sistemsko/Lab/lab1/obj/Debug/net9.0/Nyt.genruntimeconfig.cache
+/Users/macbook/FAKS/GODINA-3/СЕМСЕТАР - 6/Sistemsko/Lab/lab1/obj/Debug/net9.0/ref/Nyt.dll

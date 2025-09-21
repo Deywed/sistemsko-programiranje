@@ -7,13 +7,10 @@ namespace ReactiveNewsServer
     {
         static void Main(string[] args)
         {
-            // Zamenite sa vašim News API ključem
-            string newsApiKey = "c42ad60cac984181a27911de3c49c15d";
+            string newsApiKey = "YOUR_NEWS_API";
             
-            // Port na kom server osluškuje
             string url = "http://localhost:8080/";
             
-            // Kreiraj i pokreni server
             using var server = new ReactiveNewServer(url, newsApiKey);
             
             try

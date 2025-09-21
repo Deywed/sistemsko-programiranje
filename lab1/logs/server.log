@@ -71,3 +71,89 @@
 [2025-09-19 00:51:27] INFO: Server startovan na http://localhost:8080/
 [2025-09-19 00:51:48] INFO: Server startovan na http://localhost:8080/
 [2025-09-19 00:55:15] INFO: Server startovan na http://localhost:8080/
+INFO: Server startovan na http://localhost:8080/
+INFO: Server startovan na http://localhost:8080/
+INFO: Server startovan na http://localhost:8080/
+INFO: Zahtev: category=, date=2025-09-21
+INFO: Pozivam NYT API: https://api.nytimes.com/svc/books/v3/lists/2025-09-21/.json?api-key=JBHSQTvBdTNd6g0yJv8WJhdbhwvN0iOV
+INFO: NYT API status: NotFound
+ERROR: NYT API greška: NotFound
+INFO: Zahtev: category=fiction, date=2025-09-21
+INFO: Pozivam NYT API: https://api.nytimes.com/svc/books/v3/lists/2025-09-21/fiction.json?api-key=JBHSQTvBdTNd6g0yJv8WJhdbhwvN0iOV
+INFO: NYT API status: NotFound
+ERROR: NYT API greška: NotFound
+INFO: Server startovan na http://localhost:8080/
+INFO: Zahtev: category=, date=2025-09-21
+INFO: Pozivam NYT API: https://api.nytimes.com/svc/books/v3/lists/2025-09-21/.json?api-key=JBHSQTvBdTNd6g0yJv8WJhdbhwvN0iOV
+INFO: NYT API status: NotFound
+ERROR: NYT API greška: NotFound
+INFO: Zahtev: category=, date=2025-09-21
+INFO: Pozivam NYT API: https://api.nytimes.com/svc/books/v3/lists/2025-09-21/.json?api-key=JBHSQTvBdTNd6g0yJv8WJhdbhwvN0iOV
+INFO: NYT API status: NotFound
+ERROR: NYT API greška: NotFound
+INFO: Zahtev: category=fiction, date=2025-09-21
+INFO: Pozivam NYT API: https://api.nytimes.com/svc/books/v3/lists/2025-09-21/fiction.json?api-key=JBHSQTvBdTNd6g0yJv8WJhdbhwvN0iOV
+INFO: NYT API status: NotFound
+ERROR: NYT API greška: NotFound
+INFO: Server startovan na http://localhost:8080/
+INFO: Zahtev: category=fiction, date=2025-09-21
+INFO: Pozivam NYT API: https://api.nytimes.com/svc/books/v3/lists/2025-09-21/fiction.json?api-key=JBHSQTvBdTNd6g0yJv8WJhdbhwvN0iOV
+INFO: NYT API status: NotFound
+ERROR: NYT API greška: NotFound
+INFO: Server startovan na http://localhost:8080/
+INFO: Zahtev: category=fiction, date=2023-12-20
+INFO: Pozivam NYT API: https://api.nytimes.com/svc/books/v3/lists/2023-12-20/fiction.json?api-key=JBHSQTvBdTNd6g0yJv8WJhdbhwvN0iOV
+INFO: NYT API status: NotFound
+ERROR: NYT API greška: NotFound
+INFO: Zahtev: category=fiction, date=2023-12-20
+INFO: Pozivam NYT API: https://api.nytimes.com/svc/books/v3/lists/2023-12-20/fiction.json?api-key=JBHSQTvBdTNd6g0yJv8WJhdbhwvN0iOV
+INFO: Zahtev: category=fiction, date=2023-12-20
+INFO: Pozivam NYT API: https://api.nytimes.com/svc/books/v3/lists/2023-12-20/fiction.json?api-key=JBHSQTvBdTNd6g0yJv8WJhdbhwvN0iOV
+INFO: NYT API status: NotFound
+ERROR: NYT API greška: NotFound
+INFO: Zahtev: category=fiction, date=2023-12-20
+INFO: Pozivam NYT API: https://api.nytimes.com/svc/books/v3/lists/2023-12-20/fiction.json?api-key=JBHSQTvBdTNd6g0yJv8WJhdbhwvN0iOV
+INFO: NYT API status: NotFound
+ERROR: NYT API greška: NotFound
+INFO: NYT API status: NotFound
+ERROR: NYT API greška: NotFound
+INFO: Zahtev: category=fiction, date=2025-09-14
+INFO: Pozivam NYT API: https://api.nytimes.com/svc/books/v3/lists/2025-09-14/fiction.json?api-key=JBHSQTvBdTNd6g0yJv8WJhdbhwvN0iOV
+INFO: NYT API status: NotFound
+ERROR: NYT API greška: NotFound
+INFO: Zahtev: category=fiction, date=2025-09-14
+INFO: Pozivam NYT API: https://api.nytimes.com/svc/books/v3/lists/2025-09-14/fiction.json?api-key=JBHSQTvBdTNd6g0yJv8WJhdbhwvN0iOV
+INFO: Zahtev: category=fiction, date=2025-09-14
+INFO: Pozivam NYT API: https://api.nytimes.com/svc/books/v3/lists/2025-09-14/fiction.json?api-key=JBHSQTvBdTNd6g0yJv8WJhdbhwvN0iOV
+INFO: NYT API status: TooManyRequests
+ERROR: NYT API greška: TooManyRequests
+INFO: Zahtev: category=fiction, date=2025-09-14
+INFO: Pozivam NYT API: https://api.nytimes.com/svc/books/v3/lists/2025-09-14/fiction.json?api-key=JBHSQTvBdTNd6g0yJv8WJhdbhwvN0iOV
+INFO: NYT API status: TooManyRequests
+ERROR: NYT API greška: TooManyRequests
+INFO: Zahtev: category=fiction, date=2025-09-14
+INFO: Pozivam NYT API: https://api.nytimes.com/svc/books/v3/lists/2025-09-14/fiction.json?api-key=JBHSQTvBdTNd6g0yJv8WJhdbhwvN0iOV
+INFO: NYT API status: TooManyRequests
+ERROR: NYT API greška: TooManyRequests
+INFO: NYT API status: TooManyRequests
+ERROR: NYT API greška: TooManyRequests
+INFO: Server startovan na http://localhost:8080/
+INFO: Zahtev: category=, date=2025-09-14
+INFO: Pozivam NYT API: https://api.nytimes.com/svc/books/v3/lists/2025-09-14/.json?api-key=JBHSQTvBdTNd6g0yJv8WJhdbhwvN0iOV
+INFO: NYT API status: TooManyRequests
+ERROR: NYT API greška: TooManyRequests
+INFO: Zahtev: category=, date=2025-09-14
+INFO: Pozivam NYT API: https://api.nytimes.com/svc/books/v3/lists/2025-09-14/.json?api-key=JBHSQTvBdTNd6g0yJv8WJhdbhwvN0iOV
+INFO: NYT API status: NotFound
+ERROR: NYT API greška: NotFound
+INFO: Zahtev: category=hardcover-fiction, date=2023-12-20
+INFO: Pozivam NYT API: https://api.nytimes.com/svc/books/v3/lists/2023-12-20/hardcover-fiction.json?api-key=JBHSQTvBdTNd6g0yJv8WJhdbhwvN0iOV
+INFO: NYT API status: OK
+INFO: Primljen JSON odgovor, dužina: 23447
+INFO: Uspešno keširano, knjiga: 15
+INFO: Server startovan na http://localhost:8080/
+INFO: Zahtev: category=hardcover-fiction, date=2025-09-14
+INFO: Pozivam NYT API: https://api.nytimes.com/svc/books/v3/lists/2025-09-14/hardcover-fiction.json?api-key=JBHSQTvBdTNd6g0yJv8WJhdbhwvN0iOV
+INFO: NYT API status: OK
+INFO: Primljen JSON odgovor, dužina: 22995
+INFO: Uspešno keširano, knjiga: 15
