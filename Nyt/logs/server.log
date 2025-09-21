@@ -1,0 +1,73 @@
+[2025-09-18 23:04:27] INFO: Server startovan na http://localhost:8080/ (open browser -> http://localhost:8080/search?category=Hardcover-Fiction).
+[2025-09-18 23:04:31] INFO: Primljen zahtev: GET /search?category=Hardcover-Fiction from [::1]:63554
+[2025-09-18 23:04:31] INFO: Cache MISS za 'Hardcover-Fiction' -> poziv NYT API.
+[2025-09-18 23:04:32] ERROR: NYT API vratio status NotFound: 404 page not found
+
+[2025-09-18 23:04:32] INFO: Odgovoreno: 502 (application/json), duzina 51 bytes.
+[2025-09-18 23:04:32] INFO: Primljen zahtev: GET /favicon.ico from [::1]:63554
+[2025-09-18 23:04:32] INFO: Odgovoreno: 404 (text/plain), duzina 9 bytes.
+[2025-09-18 23:04:32] INFO: Nepoznati path: /favicon.ico
+[2025-09-18 23:04:51] INFO: Primljen zahtev: GET /search?category=hardcover-fiction from [::1]:63557
+[2025-09-18 23:04:51] INFO: Cache MISS za 'hardcover-fiction' -> poziv NYT API.
+[2025-09-18 23:04:51] ERROR: NYT API vratio status NotFound: 404 page not found
+
+[2025-09-18 23:04:51] INFO: Odgovoreno: 502 (application/json), duzina 51 bytes.
+[2025-09-18 23:07:43] INFO: Server startovan na http://localhost:8080/ (open browser -> http://localhost:8080/search?category=Hardcover-Fiction).
+[2025-09-18 23:07:48] INFO: Primljen zahtev: GET /search?category=Hardcover-Fiction from [::1]:63568
+[2025-09-18 23:07:48] INFO: Cache MISS za 'Hardcover-Fiction' -> poziv NYT API.
+[2025-09-18 23:07:49] ERROR: NYT API vratio status NotFound: {"status":"ERROR","copyright":"Copyright (c) 2025 The New York Times Company. All Rights Reserved.","errors":["list not found"]}
+
+[2025-09-18 23:07:49] INFO: Odgovoreno: 502 (application/json), duzina 51 bytes.
+[2025-09-18 23:07:58] INFO: Primljen zahtev: GET /search?category=hardcover-fiction from [::1]:63568
+[2025-09-18 23:07:58] INFO: Cache MISS za 'hardcover-fiction' -> poziv NYT API.
+[2025-09-18 23:07:59] INFO: NYT API nije vratio knjige za kategoriju 'hardcover-fiction' -> vraćam 404 klijentu.
+[2025-09-18 23:07:59] INFO: Odgovoreno: 404 (application/json), duzina 50 bytes.
+[2025-09-18 23:08:30] INFO: Primljen zahtev: GET /search?category=hardcover-fiction from [::1]:63575
+[2025-09-18 23:08:30] INFO: Cache MISS za 'hardcover-fiction' -> poziv NYT API.
+[2025-09-18 23:08:30] INFO: NYT API nije vratio knjige za kategoriju 'hardcover-fiction' -> vraćam 404 klijentu.
+[2025-09-18 23:08:30] INFO: Odgovoreno: 404 (application/json), duzina 50 bytes.
+[2025-09-18 23:10:01] INFO: Primljen zahtev: GET /search?category=Juvenile-Fiction from [::1]:63578
+[2025-09-18 23:10:01] INFO: Cache MISS za 'Juvenile-Fiction' -> poziv NYT API.
+[2025-09-18 23:10:02] ERROR: NYT API vratio status NotFound: {"status":"ERROR","copyright":"Copyright (c) 2025 The New York Times Company. All Rights Reserved.","errors":["list not found"]}
+
+[2025-09-18 23:10:02] INFO: Odgovoreno: 502 (application/json), duzina 51 bytes.
+[2025-09-18 23:10:09] INFO: Primljen zahtev: GET /search?category=juvenile-fiction from [::1]:63578
+[2025-09-18 23:10:09] INFO: Cache MISS za 'juvenile-fiction' -> poziv NYT API.
+[2025-09-18 23:10:09] ERROR: NYT API vratio status NotFound: {"status":"ERROR","copyright":"Copyright (c) 2025 The New York Times Company. All Rights Reserved.","errors":["list not found"]}
+
+[2025-09-18 23:10:09] INFO: Odgovoreno: 502 (application/json), duzina 51 bytes.
+[2025-09-18 23:10:29] INFO: Primljen zahtev: GET /search?category=paperback-nonfiction from [::1]:63580
+[2025-09-18 23:10:29] INFO: Cache MISS za 'paperback-nonfiction' -> poziv NYT API.
+[2025-09-18 23:10:30] INFO: NYT API nije vratio knjige za kategoriju 'paperback-nonfiction' -> vraćam 404 klijentu.
+[2025-09-18 23:10:30] INFO: Odgovoreno: 404 (application/json), duzina 50 bytes.
+[2025-09-18 23:17:09] INFO: Server startovan na http://localhost:8080/ (request: http://localhost:8080/search?category=hardcover-fiction).
+[2025-09-18 23:17:13] INFO: Primljen zahtev: GET /search?category=hardcover-fiction from [::1]:63604
+[2025-09-18 23:17:13] INFO: Cache MISS za 'hardcover-fiction' @ 2025-09-18 -> poziv NYT lists endpoint.
+[2025-09-18 23:17:14] ERROR: NYT API vratio status Unauthorized: {"fault":{"faultstring":"Invalid ApiKey","detail":{"errorcode":"oauth.v2.InvalidApiKey"}}}
+[2025-09-18 23:17:14] INFO: Odgovoreno: 502 (application/json), duzina 55 bytes.
+[2025-09-18 23:19:39] INFO: Server startovan na http://localhost:8080/ (request: http://localhost:8080/search?category=hardcover-fiction).
+[2025-09-18 23:19:42] INFO: Primljen zahtev: GET /search?category=hardcover-fiction from [::1]:63622
+[2025-09-18 23:19:42] INFO: Cache MISS za 'hardcover-fiction' @ 2025-09-18 -> poziv NYT lists endpoint.
+[2025-09-18 23:19:43] INFO: NYT lists vraća 15 knjiga za 'hardcover-fiction' @ 2025-09-18. Odgovor keširan (5 min).
+[2025-09-18 23:19:43] INFO: Odgovoreno: 200 (application/json), duzina 22554 bytes.
+[2025-09-18 23:25:39] INFO: Cache cleanup: uklonjeno 1 istekao(ih) zapisa.
+[2025-09-18 23:26:27] INFO: Primljen zahtev: GET /apple-touch-icon-precomposed.png from [::1]:63688
+[2025-09-18 23:26:27] INFO: Primljen zahtev: GET /apple-touch-icon.png from [::1]:63689
+[2025-09-18 23:26:27] INFO: Primljen zahtev: GET /favicon.ico from [::1]:63690
+[2025-09-18 23:26:27] INFO: Odgovoreno: 404 (text/plain), duzina 9 bytes.
+[2025-09-18 23:26:27] INFO: Odgovoreno: 404 (text/plain), duzina 9 bytes.
+[2025-09-18 23:26:27] INFO: Nepoznati path: /apple-touch-icon-precomposed.png
+[2025-09-18 23:26:27] INFO: Nepoznati path: /apple-touch-icon.png
+[2025-09-18 23:26:27] INFO: Odgovoreno: 404 (text/plain), duzina 9 bytes.
+[2025-09-18 23:26:27] INFO: Nepoznati path: /favicon.ico
+[2025-09-18 23:26:32] INFO: Primljen zahtev: GET /search?category=hardcover-fiction from [::1]:63693
+[2025-09-18 23:26:32] INFO: Cache MISS za 'hardcover-fiction' @ 2025-09-18 -> poziv NYT lists endpoint.
+[2025-09-18 23:26:34] INFO: NYT lists vraća 15 knjiga za 'hardcover-fiction' @ 2025-09-18. Odgovor keširan (5 min).
+[2025-09-18 23:26:34] INFO: Odgovoreno: 200 (application/json), duzina 22554 bytes.
+[2025-09-18 23:31:39] INFO: Cache cleanup: uklonjeno 1 istekao(ih) zapisa.
+[2025-09-19 00:30:55] INFO: Server startovan na http://localhost:8080/
+[2025-09-19 00:31:34] INFO: Server startovan na http://localhost:8080/
+[2025-09-19 00:50:15] INFO: Server startovan na http://localhost:8080/
+[2025-09-19 00:51:27] INFO: Server startovan na http://localhost:8080/
+[2025-09-19 00:51:48] INFO: Server startovan na http://localhost:8080/
+[2025-09-19 00:55:15] INFO: Server startovan na http://localhost:8080/

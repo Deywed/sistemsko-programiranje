@@ -1,0 +1,14 @@
+/Users/macbook/Nyt/bin/Debug/net9.0/Nyt
+/Users/macbook/Nyt/bin/Debug/net9.0/Nyt.deps.json
+/Users/macbook/Nyt/bin/Debug/net9.0/Nyt.runtimeconfig.json
+/Users/macbook/Nyt/bin/Debug/net9.0/Nyt.dll
+/Users/macbook/Nyt/bin/Debug/net9.0/Nyt.pdb
+/Users/macbook/Nyt/obj/Debug/net9.0/Nyt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Nyt/obj/Debug/net9.0/Nyt.AssemblyInfoInputs.cache
+/Users/macbook/Nyt/obj/Debug/net9.0/Nyt.AssemblyInfo.cs
+/Users/macbook/Nyt/obj/Debug/net9.0/Nyt.csproj.CoreCompileInputs.cache
+/Users/macbook/Nyt/obj/Debug/net9.0/Nyt.dll
+/Users/macbook/Nyt/obj/Debug/net9.0/refint/Nyt.dll
+/Users/macbook/Nyt/obj/Debug/net9.0/Nyt.pdb
+/Users/macbook/Nyt/obj/Debug/net9.0/Nyt.genruntimeconfig.cache
+/Users/macbook/Nyt/obj/Debug/net9.0/ref/Nyt.dll
